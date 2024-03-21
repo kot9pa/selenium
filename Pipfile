@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 selenium = "*"
+pytest = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
